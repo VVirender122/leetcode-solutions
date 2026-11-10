@@ -12,7 +12,17 @@ int countDigits(int n) {
         return 1 + countDigits(n / 10);
     }
 }
-
+/*
+countDigits(472){
+    return 1 + countDigits(47);
+}
+countDigits(47){
+    return 1 + countDigits(4);
+}
+countDigits(4){
+    return 1;
+}
+*/
 // returns how many times c appears in s
 int countChar(const char *s, char c) {
     // Base case: if the string is empty, return 0
@@ -38,3 +48,13 @@ int main() {
     printf("countChar(\"\", 'a') = %d\n", countChar("", 'a'));
     return 0;
 }
+
+/*
+Stack trace of countDigits(472):
+  countDigits(472) -> waits for countDigits(47)
+  countDigits(47)  -> waits for countDigits(4)
+  countDigits(4)   -> base case, returns 1
+  countDigits(47)  -> returns 1 + 1 = 2
+  countDigits(472) -> returns 1 + 2 = 3
+Deepest point: 3 countDigits frames (4 with main)
+*/
