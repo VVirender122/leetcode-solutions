@@ -16,6 +16,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 |---|---|---|---|---|---|---|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Binary search | O(log n) | O(1) | [Java](searching/binary-search.java) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Two pointers | O(n) | O(n) | [Java](strings/reverse-vowels-of-a-string.java) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two pointers | O(n) | O(1) | [Java](strings/reverse-string.java) |
 
 ## C Practice
 
