@@ -18,6 +18,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Two pointers | O(n) | O(n) | [Java](strings/reverse-vowels-of-a-string.java) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two pointers | O(n) | O(1) | [Java](strings/reverse-string.java) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | Stack (StringBuilder) | O(n) | O(n) | [Java](strings/remove-all-adjacent-duplicates-in-string.java) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Two pointers | O(n) | O(1) | [Java](arrays/move-zeroes.java) |
 
 ## C Practice
 
