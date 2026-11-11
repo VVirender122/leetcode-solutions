@@ -12,6 +12,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 - [`arrays/`](arrays/): array problems
 - [`math/`](math/): number theory and bit problems
 - [`recursion/`](recursion/): recursion problems
+- [`sql/`](sql/): SQL problems (MySQL)
 
 ## LeetCode (Java)
 
@@ -39,6 +40,12 @@ Custom string functions, written without `<string.h>`:
 - `my_strcpy()`: copy a string, O(n)
 - `my_strcmp()`: compare two strings, O(min(n, m))
 - `my_strcat()`: concatenate strings, O(n + m)
+
+## SQL (MySQL)
+
+| # | Problem | Difficulty | Approach | Solution |
+|---|---|---|---|---|
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Filter with WHERE and AND | [SQL](sql/recyclable-and-low-fat-products.sql) |
 
 ## How to Run
 
