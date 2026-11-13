@@ -1,4 +1,3 @@
-
 // Valid Perfect Square (Easy) - LeetCode 367
 // Approach: Binary Search
 // Time: O(log n), Space: O(1)
