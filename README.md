@@ -48,6 +48,7 @@ Custom string functions, written without `<string.h>`:
 | # | Problem | Difficulty | Approach | Solution |
 |---|---|---|---|---|
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Filter with WHERE and AND | [SQL](sql/recyclable-and-low-fat-products.sql) |
+| 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | Join with a MAX subquery per department | [SQL](sql/department-highest-salary.sql) |
 
 ## How to Run
 
