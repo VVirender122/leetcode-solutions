@@ -48,6 +48,7 @@ Custom string functions, written without `<string.h>`:
 | # | Problem | Difficulty | Approach | Solution |
 |---|---|---|---|---|
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Filter with WHERE and AND | [SQL](sql/recyclable-and-low-fat-products.sql) |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | GROUP BY with MIN | [SQL](sql/game-play-analysis-i.sql) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | Self join with DATEDIFF | [SQL](sql/rising-temperature.sql) |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | GROUP BY with HAVING | [SQL](sql/duplicate-emails.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Self join, delete the larger id | [SQL](sql/delete-duplicate-emails.sql) |
