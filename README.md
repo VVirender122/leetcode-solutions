@@ -26,6 +26,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Iteration (two variables) | O(n) | O(1) | [Java](recursion/fibonacci-number.java) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [Java](math/power-of-two.java) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Digital root (num % 9) | O(1) | O(1) | [Java](math/add-digits.java) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking | O(n * C_n) | O(n) | [Java](backtracking/generate-parentheses.java) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Binary exponentiation | O(log n) | O(1) | [Java](math/powx-n.java) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Kadane's Algorithm (DP) | O(n) | O(1) | [Java](arrays/maximum-subarray.java) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Easy | Binary search | O(log n) | O(1) | [Java](math/valid-perfect-square.java) |
