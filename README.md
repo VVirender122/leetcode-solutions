@@ -26,6 +26,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Iteration (two variables) | O(n) | O(1) | [Java](recursion/fibonacci-number.java) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [Java](math/power-of-two.java) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Digital root (num % 9) | O(1) | O(1) | [Java](math/add-digits.java) |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | Simulation (groups of k) | O(n) per round | O(n) | [Java](strings/calculate-digit-sum-of-a-string.java) |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | 2D Dynamic Programming | O(m * n) | O(m * n) | [Java](dynamic-programming/regular-expression-matching.java) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking | O(n * C_n) | O(n) | [Java](backtracking/generate-parentheses.java) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Binary exponentiation | O(log n) | O(1) | [Java](math/powx-n.java) |
