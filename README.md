@@ -28,6 +28,7 @@ LeetCode profile: [y5QpaUL44x](https://leetcode.com/u/y5QpaUL44x/)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Iteration (two variables) | O(n) | O(1) | [Java](recursion/fibonacci-number.java) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | Bit manipulation | O(1) | O(1) | [Java](math/power-of-two.java) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | Digital root (num % 9) | O(1) | O(1) | [Java](math/add-digits.java) |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | Recursion | O(n) | O(h) | [Java](trees/minimum-depth-of-binary-tree.java) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | Post-order recursion with a -1 sentinel | O(n) | O(h) | [Java](trees/balanced-binary-tree.java) |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | Bottom-up DP | O(n) | O(n) | [Java](dp/decode-ways.java) |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | Recursion (divide and conquer) | Catalan(n) | Catalan(n) | [Java](trees/unique-binary-search-trees-ii.java) |
